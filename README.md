@@ -7,6 +7,9 @@ Each player has **4 pawns**, represented on the board as `B` (computer) and `C` 
 
 ---
 
+![KONO](kono.gif)
+
+
 ## Key Features
 - **Two-player gameplay:** Human vs. computer.
 - **Board display:** A clear 4x4 grid shown in the console with Unicode borders.
