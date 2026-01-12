@@ -1,4 +1,4 @@
-# Gra a la Kono – Console Board Game
+# Game a la Kono – Console Board Game
 
 ## Overview
 This project is a **console-based board game** in C++, inspired by a simplified strategy game similar to “Kono.”  
@@ -48,4 +48,3 @@ Each player has **4 pawns**, represented on the board as `B` (computer) and `C` 
 
 ---
 
-## Example Console Output
